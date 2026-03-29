@@ -22,6 +22,8 @@ Network-wide DNS ad and tracker blocker running on raspberry pi 4, installed and
 
 ## screenshot
 <img width="2599" height="1519" alt="image" src="https://github.com/user-attachments/assets/c72e7844-4083-4a2a-8dcd-251352669a12" />
+<img width="472" height="1351" alt="image" src="https://github.com/user-attachments/assets/aae58901-6f01-414f-83ef-724e9a3b1c3d" />
+
 
 ## tech/tools
 Raspberry Pi 4, Raspberry Pi OS Lite, Pi-hole
